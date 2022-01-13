@@ -1,0 +1,11 @@
+print("E. Write a Python script to concatenate following dictionaries to create a new one.")
+print("D21CE180 - SHREYASH CHAUHAN")
+dic1 = {1: 10, 2: 20}
+dic2 = {3: 30, 4: 40}
+dic3 = {5: 50, 6: 60}
+dic4 = { }
+for d in (dic1, dic2, dic3): dic4.update(d)
+print("FIRST DICTIONARY :", dic1)
+print("SECOND DICTIONARY :", dic1)
+print("THIRD DICTIONARY :", dic1)
+print("FINAL DICTIONARY :", dic4)
