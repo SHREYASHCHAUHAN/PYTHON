@@ -1,5 +1,0 @@
-print("D. Write a Python program to convert a tuple to a string.")
-print("D21CE180 - SHREYASH CHAUHAN")
-t = ('1', '2', '3', '4', '5')
-s = ''.join(t)
-print(s)
