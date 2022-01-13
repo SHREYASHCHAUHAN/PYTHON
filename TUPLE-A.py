@@ -1,5 +1,0 @@
-print("B. Write a Python program to create a tuple with numbers and print one item.")
-print("D21CE180 - SHREYASH CHAUHAN")
-T = (1, 2, 3, 4, 5)
-print(T)
-print("FIRST VALUE :", T[0])
