@@ -1,0 +1,5 @@
+print("E. Write a Python program to find the length of a tuple.")
+print("D21CE180 - SHREYASH CHAUHAN")
+t = (0, 1, 2, 3, 4, 5)
+print(t)
+print("LENGTH OF A TUPLE =", len(t))
